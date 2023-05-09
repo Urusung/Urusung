@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 <h3 align="left">🛠 Tech Stack 🛠</h3>
 <p align="left">
   <b>- Front-end : </b>
-  <span><img src="https://img.shields.io/badge/flutter-#02569B?style=flat-square&flutter=flutter&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/dart-#0175C2?style=flat-square&logo=dart&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&flutter=flutter&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></span>
   <br/>
   <b>- Database : </b>
-  <span><img src="https://img.shields.io/badge/sqlite-#003B57?style=flat-square&logo=sqlite&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white"></span>
   <span></span>
   <span></span>
 </p>
 
-<h3 align="left">🧸 Contact Me 🧸</h3>
+<h3 align="left">Contact Me</h3>
 <p align="left">
   <span><a href="mailto:choiwoosung61@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=serajang1679@gmail.com"/></a></span>
   <span><a href="https://evening-conifer-8fe.notion.site/Flutter-efd10bcdfe3d40c292d59933cfad13cf" target='_blank'><img src="https://img.shields.io/badge/Notion-0072C6?style=flat-square&logo=Notion&logoColor=white&link=https://velog.io/@serajang99"/></a></span>
