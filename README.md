@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Urusung&show_icons=true&theme=radical&hide=issues&line_height=24&include_all_commits=True&hide_border=True" />
     </a></span>
   <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urusung&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=260" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urusung&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=20" />
     </a></span>
   <br/> 
   <a href="https://github.com/Platane/snk" target='_blank'>
