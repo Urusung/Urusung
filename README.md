@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**serajang99/serajang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Urusung/Urusung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 <h3 align="left">🌱 My Github 🌱 </h3>
 <p align="left">
   <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=serajang99&show_icons=true&theme=radical&hide=issues&line_height=24&include_all_commits=True&hide_border=True" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Urusung&show_icons=true&theme=radical&hide=issues&line_height=24&include_all_commits=True&hide_border=True" />
     </a></span>
   <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serajang99&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=260" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urusung&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=260" />
     </a></span>
   <br/> 
   <a href="https://github.com/Platane/snk" target='_blank'>
