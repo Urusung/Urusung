@@ -1,25 +1,60 @@
-<div align="center">
-<br><br><br>
+<!-- ### Hi there 👋 -->
 
-<!-- Don't just fork or copy it. Star it, please 🥺  -->
+<!--
+**serajang99/serajang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Woosung.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+Here are some ideas to get you started:
 
-<br><br><br>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-<!-- Urusung's profile -->
- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Urusung&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urusung&layout=compact)](https://github.com/anuraghazra/github-readme-stats" width=48% />
- </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Urusung&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
-</a>
+<h3 align="left">🛠 Tech Stack 🛠</h3>
+<p align="left">
+  <b>- Front-end : </b>
+  <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></span>
+  <br/>
+  <b>- Back-end : </b>
+  <span><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"></span>
+  <br/>
+  <b>- Database : </b>
+  <span><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></span>
+  <span><img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"></span>
+  <span></span>
+  <span></span>
+</p>
 
+<h3 align="left">🧸 Contact Me 🧸</h3>
+<p align="left">
+  <span><a href="mailto:serajang1679@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=serajang1679@gmail.com"/></a></span>
+  <span><a href="https://velog.io/@serajang99" target='_blank'><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@serajang99"/></a></span>
+</p>
 
-<br><br><br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUrusung&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+<h3 align="left">🌱 My Github 🌱 </h3>
+<p align="left">
+  <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=serajang99&show_icons=true&theme=radical&hide=issues&line_height=24&include_all_commits=True&hide_border=True" />
+    </a></span>
+  <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serajang99&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=260" />
+    </a></span>
+  <br/> 
+  <a href="https://github.com/Platane/snk" target='_blank'>
+    <img align="center" src="https://github.com/serajang99/serajang99/blob/output/github-contribution-grid-snake.svg" />
+  </a>
+</p>
