@@ -44,7 +44,4 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urusung&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=260" />
     </a></span>
   <br/> 
-  <a href="https://github.com/Platane/snk" target='_blank'>
-    <img align="center" src="https://github.com/Urusung/Urusung/blob/output/github-contribution-grid-snake.svg" />
-  </a>
 </p>
