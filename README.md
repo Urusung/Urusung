@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ChoiWoosung&fontSize=70&animation=twinkling)
 
-<h3 align="left">🛠 Tech Stack 🛠</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 <p align="left">
   <b>- Front-end : </b>
   <span><img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></span>
@@ -28,13 +29,13 @@ Here are some ideas to get you started:
   <span></span>
 </p>
 
-<h3 align="left">Contact Me</h3>
+<h3 align="left">👋 Contact Me</h3>
 <p align="left">
   <span><a href="mailto:choiwoosung61@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=serajang1679@gmail.com"/></a></span>
   <span><a href="https://evening-conifer-8fe.notion.site/Flutter-efd10bcdfe3d40c292d59933cfad13cf" target='_blank'><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://velog.io/@serajang99"/></a></span>
 </p>
 
-<h3 align="left">🌱 My Github 🌱 </h3>
+<h3 align="left">🌱 My Github</h3>
 <p align="left">
   <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Urusung&show_icons=true&theme=radical&hide=issues&line_height=24&include_all_commits=True&hide_border=True" />
