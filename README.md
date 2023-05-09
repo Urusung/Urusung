@@ -14,7 +14,6 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urusung&layout=compact)](https://github.com/anuraghazra/github-readme-stats" width=48% />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Urusung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Urusung&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
