@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Woosung's+GitHub!👋)]
+![header](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Woosung's+GitHub!👋)
 
 <h3 align="left">🛠 Tech Stack</h3>
 <p align="left">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h3 align="left">👋 Contact Me</h3>
 <p align="left">
   <span><a href="mailto:choiwoosung61@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=serajang1679@gmail.com"/></a></span>
-  <span><a href="https://evening-conifer-8fe.notion.site/Flutter-efd10bcdfe3d40c292d59933cfad13cf" target='_blank'><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://velog.io/@serajang99"/></a></span>
+  <span><a href="https://evening-conifer-8fe.notion.site/Flutter-efd10bcdfe3d40c292d59933cfad13cf" target='_blank'><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://evening-conifer-8fe.notion.site"/></a></span>
 </p>
 
 <h3 align="left">🌱 My Github</h3>
@@ -45,6 +45,6 @@ Here are some ideas to get you started:
     </a></span>
   <br/> 
   <a href="https://github.com/Platane/snk" target='_blank'>
-    <img align="center" src="https://github.com/serajang99/serajang99/blob/output/github-contribution-grid-snake.svg" />
+    <img align="center" src="https://github.com/Urusung/Urusung/blob/output/github-contribution-grid-snake.svg" />
   </a>
 </p>
