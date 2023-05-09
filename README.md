@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <h3 align="left">🧸 Contact Me 🧸</h3>
 <p align="left">
   <span><a href="mailto:choiwoosung61@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=serajang1679@gmail.com"/></a></span>
-  <span><a href="https://evening-conifer-8fe.notion.site/Flutter-efd10bcdfe3d40c292d59933cfad13cf" target='_blank'><img src="https://img.shields.io/badge/Notion-d14836?style=flat-square&logo=Notion&logoColor=white&link=https://velog.io/@serajang99"/></a></span>
+  <span><a href="https://evening-conifer-8fe.notion.site/Flutter-efd10bcdfe3d40c292d59933cfad13cf" target='_blank'><img src="https://img.shields.io/badge/Notion-0072C6?style=flat-square&logo=Notion&logoColor=white&link=https://velog.io/@serajang99"/></a></span>
 </p>
 
 <h3 align="left">🌱 My Github 🌱 </h3>
