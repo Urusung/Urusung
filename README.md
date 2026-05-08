@@ -1,47 +1,40 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**Urusung/Urusung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![header](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Woosung's+GitHub!👋)
 
-<h3 align="left">🛠 Tech Stack</h3>
-<p align="left">
-  <b>- Front-end : </b>
-  <span><img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white"/></span>
-  <br/>
-  <b>- Database : </b>
-  <span><img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white"></span>
-  <span></span>
-  <span></span>
+## 👋 About Me
+
+Flutter와 Dart를 중심으로 모바일 앱 개발을 공부하고 있습니다.  
+깔끔한 UI, 안정적인 구조, 사용자 경험을 중요하게 생각합니다.
+
+## 🛠 Tech Stack
+
+### Front-end / Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
 </p>
 
-<h3 align="left">👋 Contact Me</h3>
-<p align="left">
-  <span><a href="mailto:choiwoosung61@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=serajang1679@gmail.com"/></a></span>
-  <span><a href="https://evening-conifer-8fe.notion.site/Flutter-efd10bcdfe3d40c292d59933cfad13cf" target='_blank'><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://evening-conifer-8fe.notion.site"/></a></span>
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-<h3 align="left">🌱 My Github</h3>
-<p align="left">
-  <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Urusung&show_icons=true&theme=radical&hide=issues&line_height=24&include_all_commits=True&hide_border=True" />
-    </a></span>
-  <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urusung&layout=compact&theme=radical&langs_count=6&hide_border=True&card_width=260" />
-    </a></span>
-  <br/> 
+## 📫 Contact
+
+<p>
+  <a href="mailto:choiwoosung61@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://evening-conifer-8fe.notion.site/Flutter-efd10bcdfe3d40c292d59933cfad13cf">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+  </a>
+</p>
+
+## 🌱 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Urusung&show_icons=true&theme=radical&hide=issues&line_height=24&include_all_commits=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urusung&layout=compact&theme=radical&langs_count=6&hide_border=true&card_width=260" />
 </p>
