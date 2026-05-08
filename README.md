@@ -64,12 +64,11 @@
 - [inha-operating-system-quiz](https://github.com/Urusung/inha-operating-system-quiz)  
   A quiz site for reviewing operating system concepts.
 
-## GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Urusung&show_icons=true&theme=default&hide_border=true" alt="Woosung's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urusung&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
+- Most of my repositories are focused on Flutter app practice, study tools, and small web projects.
+- You can explore my latest work from my [repository list](https://github.com/Urusung?tab=repositories).
+- I keep each project as a record of what I learned while building it.
 
 ## Current Focus
 
